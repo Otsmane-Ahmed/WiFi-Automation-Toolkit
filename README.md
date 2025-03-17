@@ -90,5 +90,5 @@ To confirm that the 4-way handshake has been successfully captured, open the gen
 ## Disclaimer
 This tool is intended **for educational and security research purposes only**. Unauthorized use against networks you do not own is **illegal and unethical**. i am  not responsible for any misuse of this tool.
 
-## License
-This project is released under the **MIT License**.
+
+ **Developed with  by Otsmane Ahmed**  
